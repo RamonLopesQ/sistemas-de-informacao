@@ -1,0 +1,60 @@
+Prezados(as),
+
+
+Em relação ao seguinte material, respondam as seguintes questões:
+
+https://arxiv.org/pdf/1707.00338v1.pdf 
+
+1. diferencie o raciocínio lógico do pensamento computacional, explicando as características de cada um e quando utilizá-los.
+
+2. explique os pilares do pensamento computacional (fig. 3), assim como seus elementos característicos (fig. 1).
+
+3. explique a afirmação "O desenvolvimento do pensamento computacional não tem como objetivo direcionar as pessoas a pensarem como computadores".
+
+4. faça um resumo, com extensão entre 200 e 250 palavras, apresentando as principais ideias e conceitos discutidos no artigo.
+
+
+A partir do seguinte material, respondam as seguintes questões:
+
+https://revista.ibict.br/ciinf/article/view/5066/5247?authuser=1
+
+https://sol.sbc.org.br/index.php/wei/article/view/20852/20678?authuser=1
+
+
+a. explique o que são dados, informação, conhecimento e sabedoria, suas relações e influências mútuas;
+
+b. apresente as principais críticas ao modelo DIKW;
+
+c. o modelo tradicional baseado na Pirâmide DIKW ainda é válido? justifique detalhadamente sua resposta;
+
+d. explique detalhadamente o que é o modelo DIK2;
+
+e. explique a tabela 7 do texto "Isso não é uma pirâmide [...]";
+
+f. escreva um texto explicando o que está representado na figura 3 do texto "Isso não é uma pirâmide [...]";
+
+g. explique o que é pensamento computacional, diferenciando-o de outros tipos eventualmente existentes de pensamento;
+
+h. explique detalhadamente as etapas do pensamento computacional: abstração, automação e análise;
+
+i. apresente situações em que a aplicação do pensamento computacional é incentivada e/ou preferível;
+
+j. explique a figura 1 do texto "Fundamentos de pensamento computacional";
+
+k. explique as características essenciais do pensamento computacional; apresente exemplos.
+
+l. explique a figura 2 do texto "Fundamentos de pensamento computacional";
+
+m. quais são as limitações para o pensamento computacional? explique cada uma e apresente, pelo menos, 2 exemplos de cada;
+
+n. explique a relação entre Pensamento Computacional e Engenharia de Software e como estas áreas podem se influenciar;
+
+o. identifique pontos de convergência e de divergência entre os textos  "Fundamentos de pensamento computacional" e "Pensamento computacional e Engenharia de Software";
+
+p. explique a tabela 2 do texto "Pensamento computacional e Engenharia de Software";
+
+q. explique como todos estes elementos (dados, informação, conhecimento, pensamento computacional e engenharia de software) se relacionam; apresente exemplos;
+
+Atenciosamente,
+
+Prof. Dr. Reginaldo Morais de Macedo
